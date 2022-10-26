@@ -1,0 +1,2 @@
+from Glass_Tank_Animals import Newt
+from Glass_Tank_Animals import RedSpottedNewt
